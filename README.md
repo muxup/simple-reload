@@ -92,7 +92,7 @@ so will be maintained if navigating to different pages within the same domain
 in that tab.
 
 In terms of licensing, the implementation is so straight-forward it hardly
-feels copyrightable. Please consider it public domain, or MIT if you're more
+feels copyrightable. Please consider it public domain, or MIT-0 if you're more
 comfortable with an explicit license.
 
 ## Implementation notes
